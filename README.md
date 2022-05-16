@@ -1,4 +1,4 @@
-- 👋 Hola, Me llamo @Carlober Diaz
+- 👋 Hola, Me llamo @Carlober 
 - 👀 Estoy muy interesado en la progrmación
 - 🌱 Por el momento estoy volviendo a practicar desarrollo web
 
