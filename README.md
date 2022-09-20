@@ -1,9 +1,8 @@
 - 👋 Hola, Me llamo @Carlober 
-- 👀 Estoy muy interesado en la progrmación
-- 🌱 Por el momento estoy volviendo a practicar desarrollo web
 
 
 
+![rep](https://user-images.githubusercontent.com/86197463/191172291-dd285654-d2c3-4752-871b-f9774397043e.gif)
 
 
 <!---
